@@ -372,7 +372,7 @@
                     <div>
                         <h3 class="font-semibold mb-4">Kontak</h3>
                         <ul class="space-y-2">
-                            <li class="text-gray-600 text-sm">WhatsApp: 0812-3456-7890</li>
+                            <li class="text-gray-600 text-sm">WhatsApp: 111111</li>
                             <li class="text-gray-600 text-sm">Telepon: (021) 1234-5678</li>
                             <li class="text-gray-600 text-sm">Email: info@babipedia.com</li>
                         </ul>
